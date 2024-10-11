@@ -41,6 +41,10 @@ body {
 @mixin title($fontSize: 40px) {
     @include text($fontSize);
     color: variaveis.$corTxtSecundaria;
+
+    &::-webkit-scrollbar {
+        display: none;
+    }
 }
 
 .text--big {
