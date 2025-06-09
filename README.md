@@ -47,7 +47,7 @@ Projeto desenvolvido durante o curso **Desenvolvedor Full-Stack Python** da [EBA
 │   │   └── main.scss
 ├── .gitignore
 ├── README.md
-├── index.html
 ├── gulpfile.js
+├── index.html
 ├── package-lock.json
 └── package.json
