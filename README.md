@@ -1,17 +1,53 @@
-# Clone Disney+
+# 🎬 Clone Disney+
 
-## Projeto desenvolvido durante o curso de Desenvolvedor Full-Stack Python pela EBAC
+Projeto desenvolvido durante o curso **Desenvolvedor Full-Stack Python** da [EBAC](https://ebaconline.com.br/).
 
----
+🌐 **Objetivo:** Demonstrar a aplicação prática de ferramentas modernas como **Gulp** e **SASS** no desenvolvimento de uma interface inspirada no Disney+, com foco em **responsividade**, **performance** e **experiência do usuário**.
 
-Este projeto é uma demonstração prática dos conceitos abordados ao longo do curso, combinando tecnologia e design para criar uma experiência de usuário envolvente. Destaques do projeto incluem:
-
-- **Gulp:** Utilizado para otimizar e compilar arquivos, garantindo uma performance ágil e eficiente.
-
-- **SASS:** Um poderoso pré-processador CSS que traz flexibilidade e organização ao estilo da aplicação.
-
-- **Responsividade:** A página foi projetada para se adaptar perfeitamente a diferentes tamanhos de tela, com um menu-hambúrguer que proporciona uma navegação intuitiva em dispositivos móveis, mantendo a funcionalidade e a estética.
+📎 [Acesse aqui](https://clone-disneyplus-monosodrac.vercel.app/)
 
 ---
 
-Confira o projeto em: [Clone Disney+](https://clone-disneyplus-gamma-blush.vercel.app/)
+## 📚 Conceitos Aplicados
+
+- ✅ Automatização de tarefas com Gulp  
+- ✅ Estilização modular e escalável com SASS  
+- ✅ Interface responsiva com menu-hambúrguer  
+- ✅ Estruturação semântica com HTML5  
+- ✅ Boas práticas de organização e performance  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5  
+- CSS3 (compilado de SASS)  
+- JavaScript  
+- Gulp  
+- SASS  
+- Visual Studio Code (VS Code)
+
+---
+
+## 📁 Estrutura do Repositório
+
+```bash
+📂 clone-disneyplus/
+├── assets/
+│   └── fonts/
+├── src/
+│   ├── images/
+│   ├── scripts/
+│   │   └── main.js
+│   └── styles/
+│   │   ├── _avaiable-devices.scss
+│   │   ├── _faq.scss
+│   │   ├── _footer.scss
+│   │   ├── ...
+│   │   └── main.scss
+├── .gitignore
+├── README.md
+├── index.html
+├── gulpfile.js
+├── package-lock.json
+└── package.json
